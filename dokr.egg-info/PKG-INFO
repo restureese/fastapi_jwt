@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: dokr
+Version: 0.1
+Summary: library for FastAPI JWT
+Home-page: https://github.com/restureese/fastapi_jwt
+Author: Restu Reese
+Author-email: restureese@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

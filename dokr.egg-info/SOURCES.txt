@@ -1,0 +1,10 @@
+dokr
+setup.py
+dokr.egg-info/PKG-INFO
+dokr.egg-info/SOURCES.txt
+dokr.egg-info/dependency_links.txt
+dokr.egg-info/requires.txt
+dokr.egg-info/top_level.txt
+fastapi_jwt/__init__.py
+fastapi_jwt/handler.py
+fastapi_jwt/jwt_manager.py
